@@ -1,0 +1,2 @@
+export const REQUEST_TIMMEOUT = 2000;
+export const SUCCESS_LOAD_CHANGE_TIME = 300;
